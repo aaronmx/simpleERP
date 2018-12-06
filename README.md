@@ -1,4 +1,4 @@
-inoERP
+SIMPLEerp
 =========================
 
 Homepage: <http://inoideas.org/>
